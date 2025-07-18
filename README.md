@@ -24,6 +24,7 @@ A responsive **landing page clone** of [Myntra](https://www.myntra.com), a leadi
 - **HTML5** - for the page structure
 - **CSS3** - for styling
   - Flexbox for layout
+  - Used Icons from Google Icons and Font Awesome
 
 ## 📱 Responsive Design
 
